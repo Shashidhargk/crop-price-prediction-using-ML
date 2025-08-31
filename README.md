@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fa144546-974d-4bc9-a8e6-484b54aa4199" /># 🌾 Crop Price Prediction using Machine Learning
+# 🌾 Crop Price Prediction using Machine Learning
 
 This project is a **Flask-based web application** that predicts crop prices using **Machine Learning models**.  
 It aims to assist farmers, traders, and policymakers in making better agricultural and economic decisions.
