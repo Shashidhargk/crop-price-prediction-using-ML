@@ -1,0 +1,17 @@
+
+--------------------------------
+so to run right click on the folder where we put the files..then run these..only works in 3.7.0++ version....(old version give error)
+$ pip install -r requirements.txt
+-------------------------------------
+sklearn does not work so
+https://scikit-learn.org/stable/install.html
+or
+$pip install -U scikit-learn
+we also need run dependency thing watch yt vids
+----------------------------------------------
+one of these 3 will work
+$ python app.py
+$ python3 app.py
+$ py app.py
+-----------------
+install some vsc extensions to remove warnings and errors
